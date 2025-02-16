@@ -1,4 +1,5 @@
 # Amazon Clone (Static)
+![image alt](https://github.com/PranavHendre02/AMAZON_CLONE-STATIC/blob/64d30ff6d5acc4f2a2898768788fe5ac51b483fe/Amazon_frontpage.png)
 
 ## Overview
 
